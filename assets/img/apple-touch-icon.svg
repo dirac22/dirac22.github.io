@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   sodipodi:docname="apple-touch-icon.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4488">
+      <rect
+         style="fill:#4072af;fill-opacity:1;stroke:#4072af;stroke-width:50;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4490"
+         width="532.57727"
+         height="432.95309"
+         x="57.371563"
+         y="-524.48254"
+         ry="42.108898" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4484">
+      <rect
+         style="fill:#4072af;fill-opacity:1;stroke:#4072af;stroke-width:50;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4486"
+         width="532.57727"
+         height="432.95309"
+         x="57.371563"
+         y="-524.48254"
+         ry="42.108898" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1547"
+     inkscape:window-height="1720"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.472"
+     inkscape:cx="61.041156"
+     inkscape:cy="-25.049078"
+     inkscape:window-x="98"
+     inkscape:window-y="36"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g4496"
+     transform="matrix(1.279767,0,0,1.279767,-158.23121,752.20505)"
+     inkscape:transform-center-x="-41.313559"
+     inkscape:transform-center-y="-123.24961">
+    <path
+       clip-path="url(#clipPath4488)"
+       inkscape:connector-curvature="0"
+       id="path4459"
+       d="m 152.50141,-564.18241 197.7502,329.58362"
+       style="fill:#4072af;fill-opacity:1;fill-rule:evenodd;stroke:#4072af;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       clip-path="url(#clipPath4484)"
+       inkscape:connector-curvature="0"
+       id="path4459-3"
+       d="m 505.88489,-565.17139 -197.7502,329.58362"
+       style="fill:#4072af;fill-opacity:1;fill-rule:evenodd;stroke:#4072af;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4492"
+       y="-258.56854"
+       x="306.88293"
+       style="font-style:normal;font-weight:normal;font-size:64.45766449px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e1e9f4;fill-opacity:1;stroke:#e1e9f4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-258.56854"
+         x="306.88293"
+         id="tspan4494"
+         sodipodi:role="line">A</tspan></text>
+  </g>
+  <rect
+     style="fill:#e1e9f4;fill-opacity:0;stroke:#e1e9f4;stroke-width:50;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4141"
+     width="525.42371"
+     height="506.35593"
+     x="-2.118644"
+     y="-6.3559318"
+     ry="42.108898" />
+</svg>
