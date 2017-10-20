@@ -1,7 +1,7 @@
 # The main config file for your Jekyll template
 
 # Site settings
-title: vibinabraham               # used for the html title of every page
+title: dirac               # used for the html title of every page
 desc: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -29,6 +29,9 @@ paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf
 # Used to define the navigation menu items
 # > Title is the tile of the navigation item, url the url and desc is the tooltip
 navigation:
+  - title: Tutorial
+    url: /tutorial/
+    desc: Learn shit
   - title: Articles
     url: /articles/
     desc: Stuffs I write about
